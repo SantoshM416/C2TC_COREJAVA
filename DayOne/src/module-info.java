@@ -4,5 +4,5 @@
 /**
  * 
  */
-module hello {
+module DayOne {
 }
