@@ -1,0 +1,12 @@
+package comn.cg.multithreadingoperation;
+
+public class RunnableTwo implements Runnable{
+	// this is Runnable class
+			// in runnable class have a not start method its cantain run method
+			
+		  public void run() {
+			  for(int r=0;r<10;r++) {
+				  System.out.println("hello");
+			  }
+		  }
+}
